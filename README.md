@@ -3,7 +3,7 @@
 
 <!-- ══════════════════════════ TYPING ══════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=017a82&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20DuckGeun%20Park%21;%E2%98%95%20Java%20%26%20Python%20Backend%20Developer;%F0%9F%8C%B1%20AI%20Convergence%20Service%20Developer;%F0%9F%94%A5%20Always%20Learning%20%26%20Growing%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=017a82&center=true&vCenter=true&width=650&lines=%F0%9F%91%8B%20Hello%2C%20I%27m%20DuckGeun%20Park%21;%F0%9F%94%A5%20Always%20Learning%20%26%20Growing%21" alt="Typing SVG" />
 </div>
 
 <br/>
