@@ -103,8 +103,8 @@
 ---
 
 <!-- ══════════════════════════ SOLVED.AC ══════════════════════════ -->
-## 🏆 Baekjoon / solved.ac ** Good bye Baekjoon **
-
+## 🏆 Baekjoon / solved.ac 
+**Good bye Baekjoon**
 <div align="center">
   <a href="https://solved.ac/profile/ejrrms2/" target="_blank">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ejrrms2" alt="Solved.ac 프로필" />
