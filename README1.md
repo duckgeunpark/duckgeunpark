@@ -103,7 +103,7 @@
 ---
 
 <!-- ══════════════════════════ SOLVED.AC ══════════════════════════ -->
-## 🏆 Baekjoon / solved.ac
+## 🏆 Baekjoon / solved.ac ** Good bye Boj **
 
 <div align="center">
   <a href="https://solved.ac/profile/ejrrms2/" target="_blank">
